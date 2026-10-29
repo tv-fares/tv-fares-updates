@@ -1,5 +1,10 @@
 {
   "channel": "stable",
-  "status": "pending",
-  "message": "لا يوجد إصدار موقع وجاهز للنشر حتى الآن."
+  "status": "ready",
+  "packageName": "sa.personal.oootv.glass",
+  "versionCode": 13,
+  "versionName": "1.3-cinematic-glass",
+  "apkUrl": "https://github.com/tv-fares/tv-fares-updates/releases/download/v1.3/tv-fares-glass-v1.3.apk",
+  "sha256": "97654c6e35b0d856671489329f280a7d4b3a2de11213107b3830f3dfe19e1b6c",
+  "signerSha256": "41abad5ea4284ee4bee30661cca3df423f29a884f8f3dce9292a33c027aaefbc"
 }
