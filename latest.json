@@ -2,9 +2,9 @@
   "channel": "stable",
   "status": "ready",
   "packageName": "sa.personal.oootv.glass",
-  "versionCode": 14,
-  "versionName": "1.4-five-cinematic-themes",
-  "apkUrl": "https://github.com/tv-fares/tv-fares-updates/releases/download/v1.4/tv-fares-glass-v1.4.apk",
-  "sha256": "57b00c73d60f491c3df02f023403b0948864e262426594e6f71258d0cb25e5fc",
+  "versionCode": 15,
+  "versionName": "1.5-ota-download-fix",
+  "apkUrl": "https://github.com/tv-fares/tv-fares-updates/releases/download/v1.5/tv-fares-glass-v1.5.apk",
+  "sha256": "a88f6276ecabe06621404f4b7cdc2e3540a9b5fe401e42a55146913b7999b615",
   "signerSha256": "41abad5ea4284ee4bee30661cca3df423f29a884f8f3dce9292a33c027aaefbc"
 }
