@@ -2,9 +2,9 @@
   "channel": "stable",
   "status": "ready",
   "packageName": "sa.personal.oootv.glass",
-  "versionCode": 16,
-  "versionName": "1.6-player-watchlist",
-  "apkUrl": "https://github.com/tv-fares/tv-fares-updates/releases/download/v1.6/tv-fares-glass-v1.6.apk",
-  "sha256": "5f5afd83329bfb10c2072d113a179806fb7422cb0857437646c9c055a2013d47",
+  "versionCode": 17,
+  "versionName": "1.7-updater-screen",
+  "apkUrl": "https://github.com/tv-fares/tv-fares-updates/releases/download/v1.7/tv-fares-glass-v1.7.apk",
+  "sha256": "14020e062aa13d878cffbbdff514a3bbfd6ace35450bd8fe8134c30ce957b252",
   "signerSha256": "41abad5ea4284ee4bee30661cca3df423f29a884f8f3dce9292a33c027aaefbc"
 }
